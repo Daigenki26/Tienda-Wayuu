@@ -1,2 +1,0 @@
-Buenas en esta carpeta se localizara la cocumentación
-solicitada en los sprints
